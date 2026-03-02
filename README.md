@@ -1,4 +1,5 @@
 # Привет, меня зовут Роман
+Senior PHP Backend Developer | Architecture | Integrations | Product Development
 ### Я backend-разработчик в PHP-стеке. Проектирую и развиваю backend-системы: от архитектуры и интеграций до тестирования и сопровождения.
 
 ---
@@ -10,7 +11,7 @@
 
 ---
 
-## 🧩 Технологический фокус
+## 🎯 Технологический фокус
 
 **Backend**
 - PHP 7–8 (Laravel, Symfony)
