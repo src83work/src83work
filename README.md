@@ -1,10 +1,10 @@
 # Привет, меня зовут Роман
-Senior PHP Backend Developer | Architecture | Integrations | Product Development
+Senior Backend Developer (PHP) | Architecture | Integrations | High-load
 ### Я backend-разработчик в PHP-стеке. Проектирую и развиваю backend-системы: от архитектуры и интеграций до тестирования и сопровождения.
 
 ---
 
-## 🎯 Текущий профессиональный вектор
+## 🚀 Текущий профессиональный вектор
 
 - Открыт к предложениям в продуктовых проектах, где backend является основой бизнес-логики и есть возможность влиять на архитектуру и развитие продукта.
 - **Роль: Senior Backend Developer**
