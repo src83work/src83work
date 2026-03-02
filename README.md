@@ -15,17 +15,16 @@
 **Backend**
 - PHP 7–8 (Laravel, Symfony)
 - DDD, гексагональная архитектура
-- REST API, микросервисы
+- RESTful API, микросервисы
 
 **Данные**
-- MySQL / MariaDB
-- Redis
-- MongoDB
+- MySQL / MariaDB, Redis, MongoDB
+- ElasticSearch, ClickHouse, S3-хранилища
 
 **Инфраструктура**
-- Docker
-- Linux
-- Yandex Cloud
+- Linux, Docker
+- Nginx, Apache
+- GitLab CI/CD
 
 **Frontend**
 - HTML5, CSS3, JavaScript, jQuery
@@ -53,7 +52,7 @@
 - Релевантный опыт: с 2017 года
 - Коммерческая PHP-разработка: с 2011 года
 - IT: с 2001 года
-- 6 крупных проектов (3 — с нуля)
+- 6 крупных проектов (3 – с нуля)
 - Продуктовые компании, стартапы, заказная разработка
 - Международные команды (Европа, США)
 
