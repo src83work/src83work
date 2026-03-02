@@ -22,9 +22,8 @@
 - ElasticSearch, ClickHouse, S3-хранилища
 
 **Инфраструктура**
-- Linux, Docker
-- Nginx, Apache
-- GitLab CI/CD
+- Linux, Docker, Nginx
+- Apache, GitLab CI/CD
 
 **Frontend**
 - HTML5, CSS3, JavaScript, jQuery
