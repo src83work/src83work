@@ -77,7 +77,7 @@ Senior Backend Developer (PHP) | Architecture | Integrations | High-load
 **Актуальное техническое резюме (RU | EN):**  
 https://github.com/src83work/docs/tree/main/resume  
 
-**Архив ранних проектов (2001–2017):**  
+**Архив ранних проектов 2001–2017 (RU | EN | TR):**  
 https://github.com/src83work/docs/tree/main/resume/archive
 
 **Примеры кода:**  
