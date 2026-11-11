@@ -66,19 +66,18 @@ Senior Backend Developer (PHP) | Architecture | Integrations | High-load
 ## 🤝 Формат сотрудничества
 
 - Full-time / Long-term / Remote
-- B2B (ИП РФ / ИП Грузия)
-- B2C (Independent Contractor)
+- Трудовой договор (ТК РФ), ГПХ, B2B-контракт, Independent Contractor
 - English: B2
 
 ---
 
 ## 📄 Подробности
 
-**Актуальное техническое резюме (RU | EN | TR):**  
-https://github.com/src83work/docs/tree/main/resume  
+**LinkedIn:**  
+https://www.linkedin.com/in/staroseltsev
 
-**Архив ранних проектов 2001–2017 (RU | EN | TR):**  
-https://github.com/src83work/docs/tree/main/resume/archive
+**Резюме (RU | EN):**  
+по запросу
 
 **Примеры кода:**  
 https://github.com/src83
